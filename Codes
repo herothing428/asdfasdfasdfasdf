@@ -1,0 +1,32 @@
+{
+	"Plasma": {
+		"Moves": ["Dragon Pulse", "Aura Sphere", "Flash Cannon", "Nasty Plot"],
+		"PokemonName": "Riolu",
+		"Nature": "Timid",
+		"Nickname": "Riolu",
+		"Pokeball": "Pokeball",
+		"Level": "Badge",
+		"Gender": "Random",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "The Indigo Team",
+		"Form": "Beater",
+		"Aura": "Valentine Heart",
+		"EVs": {
+			"SpA": 252,
+			"HP": 4,
+			"Speed": 252,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 0
+		},
+		"Allowed": true
+	}
+}
