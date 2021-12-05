@@ -1,12 +1,12 @@
 {
-	"Plasma": {
-		"Moves": ["Dragon Pulse", "Aura Sphere", "Flash Cannon", "Nasty Plot"],
+	"R3LEASE": {
+		"Moves": ["Shadow Ball", "Aura Sphere", "Flash Cannon", "Close Combat"],
 		"PokemonName": "Riolu",
 		"Nature": "Timid",
-		"Nickname": "Riolu",
-		"Pokeball": "Pokeball",
+		"Nickname": "Omega",
+		"Pokeball": "Ultraball",
 		"Level": "Badge",
-		"Gender": "Random",
+		"Gender": "Male",
 		"Shiny": true,
 		"IVs": {
 			"SpA": 31,
@@ -16,9 +16,8 @@
 			"Def": 31,
 			"Atk": 31
 		},
-		"OT": "The Indigo Team",
-		"Form": "Beater",
-		"Aura": "Valentine Heart",
+		"OT": "Primal Studios",
+		"Aura": "Rainbow",
 		"EVs": {
 			"SpA": 252,
 			"HP": 4,
