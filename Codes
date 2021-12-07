@@ -4,7 +4,36 @@
 		"PokemonName": "Riolu",
 		"Nature": "Timid",
 		"Nickname": "Omega",
-		"Pokeball": "Ultraball",
+		"Pokeball": "Ultra ball",
+		"Level": "Badge",
+		"Gender": "Male",
+		"Shiny": true,
+		"IVs": {
+			"SpA": 31,
+			"HP": 31,
+			"Speed": 31,
+			"SpD": 31,
+			"Def": 31,
+			"Atk": 31
+		},
+		"OT": "Primal Studios",
+		"Aura": "Yellow",
+		"EVs": {
+			"SpA": 252,
+			"HP": 4,
+			"Speed": 252,
+			"SpD": 0,
+			"Def": 0,
+			"Atk": 0
+		},
+		"Allowed": false
+	},
+		"R3LEAS3": {
+		"Moves": ["Shadow Ball", "Aura Sphere", "Flash Cannon", "Close Combat"],
+		"PokemonName": "Riolu",
+		"Nature": "Timid",
+		"Nickname": "Omega",
+		"Pokeball": "Ultra ball",
 		"Level": "Badge",
 		"Gender": "Male",
 		"Shiny": true,
