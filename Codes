@@ -56,5 +56,34 @@
             "Atk": 0
         },
         "Allowed": true
+    },
+    "Festive": {
+        "Moves": ["Night Slash", "Leaf Blade", "Mega Drain", "False Swipe"],
+        "PokemonName": "Sceptile",
+        "Nature": "Timid",
+        "Nickname": "Festive",
+        "Pokeball": "Ultra Ball",
+        "Level": "35",
+        "Gender": "Male",
+        "Shiny": false,
+        "IVs": {
+            "SpA": 31,
+            "HP": 31,
+            "Speed": 31,
+            "SpD": 31,
+            "Def": 31,
+            "Atk": 31
+        },
+        "OT": "Primal Studios",
+        "Aura": "Red",
+        "EVs": {
+            "SpA": 252,
+            "HP": 4,
+            "Speed": 252,
+            "SpD": 0,
+            "Def": 0,
+            "Atk": 0
+        },
+        "Allowed": true
     }
 }
